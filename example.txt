@@ -2,5 +2,12 @@
 
 #Second example
 
+<<<<<<< HEAD
 
 #Fifth example
+=======
+#Third example
+
+
+#Fourth Example
+>>>>>>> branch_example
